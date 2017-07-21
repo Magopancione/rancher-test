@@ -1,0 +1,4 @@
+otrs:
+  image: juanluisbaptiste/otrs:latest
+  ports:
+  - 80:80
